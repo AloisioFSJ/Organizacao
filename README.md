@@ -27,26 +27,17 @@ Além disso, o script também:
 
 Após a execução, a estrutura da pasta ficará semelhante a:
 
-### ORGANIZAÇÃO/
-
+<pre><code>ORGANIZAÇÃO/
 │
-
 ├── Videos/
-
 ├── Imagens/
-
 ├── Texto/
-
 ├── Planilhas/
-
 ├── Documentos/
-
 ├── Compactados/
-
 ├── Outros/
-
 └── Pastas/
-
+</code></pre>
 
 
 Cada arquivo será movido automaticamente para sua categoria.
