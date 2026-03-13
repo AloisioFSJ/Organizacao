@@ -1,10 +1,10 @@
-📂 Organizador Automático de Arquivos
+##📂 Organizador Automático de Arquivos
 
 Este projeto é uma automação simples em Python que organiza automaticamente os arquivos de uma pasta em categorias, facilitando a organização e limpeza de diretórios com muitos arquivos misturados.
 
 A automação analisa todos os arquivos e pastas no mesmo diretório onde o script (ou executável) está localizado e move cada item para a categoria correspondente dentro de uma pasta chamada ORGANIZAÇÃO.
 
-⚙️ Como funciona
+##⚙️ Como funciona
 
 Quando o script é executado, ele:
 
@@ -24,7 +24,7 @@ Ignora a pasta ORGANIZAÇÃO caso ela já exista.
 
 Move todas as pastas encontradas para uma subpasta chamada Pastas.
 
-📁 Estrutura criada
+##📁 Estrutura criada
 
 Após a execução, a estrutura da pasta ficará semelhante a:
 
@@ -41,7 +41,7 @@ ORGANIZAÇÃO/
 
 Cada arquivo será movido automaticamente para sua categoria.
 
-🧠 Categorias de Arquivos
+##🧠 Categorias de Arquivos
 
 O script organiza os arquivos com base nas extensões:
 
