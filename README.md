@@ -57,3 +57,22 @@ O script organiza os arquivos com base nas extensões:
 | Documentos    | `.pdf`, `.doc`, `.docx` |
 | Compactados   | `.zip`, `.rar`, `.7z` |
 | Outros        | Qualquer extensão não listada |
+
+## 🚀 Como usar
+
+***Minha recomendação usar como executável***
+
+Basta colocar o .exe dentro da pasta que deseja organizar e executá-lo.
+
+O programa irá:
+
+- Organizar todos os arquivos automaticamente
+
+- Criar a estrutura de pastas
+
+- Exibir no terminal quais arquivos estão sendo movidos
+---
+---
+
+
+*caso dê preferência por .py, basta colocar o arquivo na pasta desejada e iniciar ele por cmd, vs code ou outro programa de sua escolha*
