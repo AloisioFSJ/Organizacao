@@ -31,6 +31,7 @@ Após a execução, a estrutura da pasta ficará semelhante a:
 │
 ├── Videos/
 ├── Imagens/
+├── Áudios/
 ├── Texto/
 ├── Planilhas/
 ├── Documentos/
@@ -52,6 +53,7 @@ O script organiza os arquivos com base nas extensões:
 |---------------|-----------|
 | Videos        | `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv` |
 | Imagens       | `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp` |
+| Áudio         | `.mp3`, `.wav` |
 | Texto         | `.txt` |
 | Planilhas     | `.xls`, `.xlsx`, `.csv` |
 | Documentos    | `.pdf`, `.doc`, `.docx` |
