@@ -19,10 +19,12 @@ os.makedirs(org_path, exist_ok=True)
 categorias = {
     "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv"],
     "Imagens": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
+    "Áudios": [".mp3", "wav"],
     "Texto": [".txt"],
     "Planilhas": [".xls", ".xlsx", ".csv"],
     "Documentos": [".pdf", ".doc", ".docx"],
-    "Compactados": [".zip", ".rar", ".7z"]
+    "Compactados": [".zip", ".rar", ".7z"],
+    "Programas": [".exe"]
 }
 
 
